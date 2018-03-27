@@ -1,0 +1,16 @@
+{
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dustjs-helpers": "^1.7.4",
+    "dustjs-linkedin": "^2.7.5",
+    "hapi": "^17.2.3",
+    "hapi-dev-errors": "^2.1.0",
+    "hapi-dust": "^2.0.0",
+    "hapi-pino": "^4.0.3",
+    "inert": "^5.1.0",
+    "vision": "^5.3.2"
+  }
+}
