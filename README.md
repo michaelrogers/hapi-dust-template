@@ -1,2 +1,2 @@
 # hapi-dust-template
-Creating a project template using Hapi and Dustjs
+A basic project template using Hapi and Dustjs.
